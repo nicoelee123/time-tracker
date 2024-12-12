@@ -1,0 +1,11 @@
+{
+  "name": "Time Tracker",
+  "description": "Intended to help you keep track of hours you've worked",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "main.html",
+    "default_icon": "clock.png"
+  },
+  "permissions": ["storage"]
+}
