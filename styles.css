@@ -11,12 +11,21 @@ h3 {
 	color: white;
 }
 
+#totalTime {
+	color: white;
+	font-size: 15px;
+}
+
 #startButton {
 	color: green;
 }
 
 #stopButton {
 	color: red;
+}
+
+#resetTotalButton {
+	color: orchid;
 }
 
 .buttons {
